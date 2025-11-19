@@ -20,19 +20,6 @@
         app:layout_constraintVertical_bias="0.478"
         />
 
-    <View
-        android:id="@+id/view"
-        android:layout_width="227dp"
-        android:layout_height="0dp"
-        android:background="#48B900"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.0"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.0"
-        />
-
 
     <ImageView
         android:id="@+id/imageView2"
@@ -46,7 +33,7 @@
 
         app:layout_constraintTop_toTopOf="parent"
 
-        app:srcCompat="@drawable/nvidia_logo" />
+        app:srcCompat="@drawable/logo" />
 
     <TextView
         android:id="@+id/textView2"
